@@ -1,4 +1,6 @@
 # Mobile-Price-Range-Prediction
+![image](https://user-images.githubusercontent.com/98172465/170445947-3eebfe1b-c4b9-444d-955c-9d99feddeb57.png)
+
 # Problem Statement
 There are many things we consider before buying a mobile as we used our mobile for various purpose like connecting with our family & Office Colleagues, playing games ,taking a photos to keep our memory alive. So this such specifications such as RAM, internal memory ,Wi-Fi , 3G/4G connectivity etc. plays important role to buy a mobile. To analysis of this important factor from time to time and come up with the best setoff specifications and price ranges so that people will buy the mobile. Hence through the various ML modules we will help the company to estimate the price of mobiles according to feature so the maximum amount of sell will be possible.
 
